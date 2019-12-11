@@ -3,6 +3,7 @@ def using_while
 	
   #write match
   while levitation_force < 10
+  levitation_force
   puts "Wingardium Leviosa"
 end
 
